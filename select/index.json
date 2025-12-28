@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Spin!",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T16:14:54.340373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spin You Around",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/01_Spin_You_Around_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spin Girl, Let’s Activate!",
+      "artist": "Octo Octa",
+      "has_synced": false,
+      "path": "select/02_Spin_Girl,_Let’s_Activate!_Octo_Octa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SPIN (feat. Foogiano)",
+      "artist": "Duke Deuce",
+      "has_synced": true,
+      "path": "select/03_SPIN_(feat._Foogiano)_Duke_Deuce.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SPIN",
+      "artist": "Duke Deuce",
+      "has_synced": true,
+      "path": "select/04_SPIN_Duke_Deuce.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Begin to Spin Me Round (extended version)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/05_Begin_to_Spin_Me_Round_(extended_version)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spin the Wheel",
+      "artist": "Devo",
+      "has_synced": false,
+      "path": "select/06_Spin_the_Wheel_Devo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spin Spin Sugar",
+      "artist": "Sneaker Pimps",
+      "has_synced": false,
+      "path": "select/07_Spin_Spin_Sugar_Sneaker_Pimps.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spin Spin Sugar (album mix)",
+      "artist": "Sneaker Pimps",
+      "has_synced": true,
+      "path": "select/08_Spin_Spin_Sugar_(album_mix)_Sneaker_Pimps.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spin Spin Sugar (Armand's Bonus Dub)",
+      "artist": "Sneaker Pimps",
+      "has_synced": false,
+      "path": "select/09_Spin_Spin_Sugar_(Armand's_Bonus_Dub)_Sneaker_Pimps.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spin Spin Sugar (Armand's Dark dub)",
+      "artist": "Sneaker Pimps",
+      "has_synced": false,
+      "path": "select/10_Spin_Spin_Sugar_(Armand's_Dark_dub)_Sneaker_Pimps.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spin Spin Sugar (Armand's Dark Garage Mix)",
+      "artist": "Sneaker Pimps",
+      "has_synced": false,
+      "path": "select/11_Spin_Spin_Sugar_(Armand's_Dark_Garage_Mix)_Sneaker_Pimps.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spin Spin Sugar (Armand's Dark Garage Mix)",
+      "artist": "Sneaker Pimps",
+      "has_synced": true,
+      "path": "select/12_Spin_Spin_Sugar_(Armand's_Dark_Garage_Mix)_Sneaker_Pimps.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spin Spin Sugar - Farley & Hellers Fire Island Vocal Mix",
+      "artist": "Sneaker Pimps",
+      "has_synced": false,
+      "path": "select/13_Spin_Spin_Sugar_-_Farley_&_Hellers_Fire_Island_Vocal_Mix_Sneaker_Pimps.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spin Spin Sugar - Phluide's Creeping Vine Mix",
+      "artist": "Sneaker Pimps",
+      "has_synced": false,
+      "path": "select/14_Spin_Spin_Sugar_-_Phluide's_Creeping_Vine_Mix_Sneaker_Pimps.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spin Spin Sugar (radio mix)",
+      "artist": "Sneaker Pimps",
+      "has_synced": false,
+      "path": "select/15_Spin_Spin_Sugar_(radio_mix)_Sneaker_Pimps.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spin",
+      "artist": "Cassette Kids",
+      "has_synced": false,
+      "path": "select/16_Spin_Cassette_Kids.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Spin",
+      "artist": "The Darling Buds",
+      "has_synced": false,
+      "path": "select/17_Spin_The_Darling_Buds.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spin!",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Spin!_BE_FIRST.txt"
+    }
+  ]
+}
